@@ -1,0 +1,20 @@
+.container{
+    background-color: aliceblue;
+    width: 35%;
+    padding: 30px;
+    margin-left: 400px;
+}
+.container button{
+    background-color: black;
+    height: 35px;
+    margin: 8px;
+    border-radius: 10px;
+    width: 20%;
+    font-size:large;
+    color: white;
+}
+.container button:hover{
+    background-color: white;
+    color: black;
+    border: solid;
+}
